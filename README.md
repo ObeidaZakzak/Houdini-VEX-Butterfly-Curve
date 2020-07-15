@@ -1,4 +1,6 @@
 # Houdini-VEX-Butterfly-Curve
+![alt text](https://github.com/ObeidaZakzak/Houdini-VEX-Butterfly-Curve/blob/master/front.png)
+
 Here's a tutorial on how to make a butterfly pattern with `VEX`. Everything is done inside of one `AttributeWrangler` node. The following code is available inside of `vex_snippet.c` source file. You can also download the `.hipnc` file where everything is already done.
 
 The Butterfly Curve equation was discovered by Temple Fay, ([Wikipedia](https://en.wikipedia.org/wiki/Butterfly_curve_(transcendental)))
@@ -93,3 +95,5 @@ And now let's calculate the value of `z` based on `x` inside of the `for loop`:
 ```
 
 Now we can bend the wings of our butterfly curve by modifing the value of `bend` channel.
+
+![alt text](https://github.com/ObeidaZakzak/Houdini-VEX-Butterfly-Curve/blob/master/perspective.png)
