@@ -1,5 +1,5 @@
 # Houdini-VEX-Butterfly-Curve
-![alt text](https://github.com/ObeidaZakzak/Houdini-VEX-Butterfly-Curve/blob/master/butterfly_glod_front_low.png)
+![alt text](https://github.com/ObeidaZakzak/Houdini-VEX-Butterfly-Curve/blob/master/butterfly_gold_front_low.png)
 
 Here's a tutorial on how to make a butterfly pattern with `VEX`. Everything is done inside of one `AttributeWrangler` node. The following code is available inside of `vex_snippet.c` source file. You can also download the `.hipnc` file where everything is already done.
 
